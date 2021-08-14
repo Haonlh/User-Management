@@ -1,0 +1,14 @@
+login=LoginController
+search=SearchController
+initSearch=InitSearchController
+create=CreateUserController
+logout=LogoutController
+deleteUser=DeleteController
+initUpdate=InitUpdateController
+update=UpdateController
+addToPromotion=AddToPromotionController
+removeItem=RemoveItemController
+updateItem=UpdateItemController
+confirmPromotion=ConfirmPromotionController
+initHistory=InitHistoryController
+searchHistory=SearchHistoryController
